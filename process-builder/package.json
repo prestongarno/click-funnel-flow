@@ -1,0 +1,16 @@
+{
+  "name": "process-builder",
+  "version": "1.0.0",
+  "description": "high-level proof of concept",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "preston",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^2.9.2",
+    "@types/virtual-chef-api": "../api",
+    "@types/virtual-chef": "../framework"
+  }
+}
